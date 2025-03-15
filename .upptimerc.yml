@@ -19,10 +19,10 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://github.com/dpy013/upptime/blob/4c728485a80bcd39995f75442dd8d686baefd591/assets/upptime-icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
+    - title: 状态
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
