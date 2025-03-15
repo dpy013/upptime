@@ -15,7 +15,7 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: dpyblog.cn
+  cname: messages.dpyblog.cn
   # baseUrl: /your-repo-name
   logoUrl: https://github.com/dpy013/upptime/blob/4c728485a80bcd39995f75442dd8d686baefd591/assets/upptime-icon.svg
   name: Upptime
